@@ -162,7 +162,7 @@ section {
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
-    border-bottom: 3px solid;
+    border-bottom: 3px solid ;
 }
 
 .primary-border {
@@ -254,7 +254,7 @@ section {
     color: #fce138
 }
 
-.contact-info{}
+
 
 .contact-info iframe {
     width: 400px;
