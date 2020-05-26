@@ -12,4 +12,3 @@ https://civ187.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Victor Cesar Lopez
-
