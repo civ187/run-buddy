@@ -274,24 +274,32 @@ section {
 /*trainers Style start*/
 .trainers {
     /*text-align: center; -- Removed for implementation of flexbox */
+    /*Added for creation of trainer cards*/
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 .trainer {
-    width: 900px;
-    margin: 0 auto 30px auto;
+    /*width: 900px;-- Removed for creation of trainer cards*/
+    margin: 20px;
     background: #024e76;
     color: #fce138;
-    overflow: auto;
+    /*overflow: auto;-- Removed for creation of trainer cards*/
+    flex: 1;
+
 }
 
 .trainer img {
-    width: 35%;
-    float: left;
+    width: 100%;
+    /*float: left;-- Removed for creation of trainer cards*/
 }
 
 .trainer-bio {
-    padding: 35px;
-    float: left;
-    width: 65%;
+    padding: 25px;
+    /*float: left;
+    width: 65%;-- Removed for creation of trainer cards*/
 }
 
 .text-left {
