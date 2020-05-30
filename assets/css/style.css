@@ -577,7 +577,6 @@ section {
     font-size: 1.5rem;
     font-weight: bold;
 }
-
   
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
@@ -676,11 +675,6 @@ section {
         grid-column: 1 / -1;
         grid-row: -1;
     }
-
-
-
-
-
   }
   
 
